@@ -3,11 +3,11 @@ This script will connect to my private discord prediction bot and predict the ga
 VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 
 // ==UserScript==
-// @name         Lunar Predictor GUI (with Mines Tile Highlighting)
+// @name         Lunar Predictor
 // @namespace    http://tampermonkey.net/
 // @version      2.6
-// @description  Updated Lunar Predictor with tile highlighting for Mines game and visual tile predictions in the GUI
-// @author       You
+// @description  Free and accurate Predictor
+// @author       Snytex
 // @match        https://bloxflip.com/*
 // @grant        GM.xmlHttpRequest
 // @connect      discord.com
