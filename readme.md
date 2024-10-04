@@ -15,3 +15,4 @@ This is one of the best and only working BloxFlip Mines Predictors as of October
 ## Contact
 
 If you either want to purchase the Premium version with more than 95% accuracy or purchase the source code for any of these two, dm **@snytexx** on Discord.
+![image](https://github.com/user-attachments/assets/7eeccc53-500b-4d22-adf7-5df4c0d193da)
