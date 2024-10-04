@@ -16,4 +16,4 @@ This is one of the best and only working BloxFlip Mines Predictors as of October
 
 If you either want to purchase the Premium version with more than 95% accuracy or purchase the source code for any of these two, dm **@snytexx** on Discord.
 
-https://media.discordapp.net/attachments/1157632560764035103/1291545750978691092/image.png?ex=670125f6&is=66ffd476&hm=088bad394469fae1f989dd89850c44c65309ebb2408d4d0dcb7044f5d834b8aa&=&format=webp&quality=lossless&width=869&height=538
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png”>
